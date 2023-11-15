@@ -17,7 +17,7 @@ Follow these step-by-step instructions to set up the GptPcAccess tool on your lo
 
 ## Step 1: Download and Run the Python Code
 
-- Download the Python code provided in the 'xxxx' section of this repository.
+- Download the Python code provided in the [Python](https://github.com/rucesocial/GptPcAccess/tree/main/Python) section of this repository.
 - Ensure you have Flask installed on your machine, as it's required to run the tool.
 - Run the Python code. This will start listening on port 5000.
 
