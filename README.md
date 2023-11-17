@@ -63,3 +63,37 @@ Regarding Python code requests, I expect immediate action without detailed expla
 - Send the prompt to ChatGPT.
 
 And that's it! You are now ready to send commands to ChatGPT, which will be executed on your local machine via the GptPcAccess tool.
+
+## Step 5: How to Integrate with Unity
+
+1. Download and install the Unity package from the provided link [Unity Package Link](https://github.com/rucesocial/GptPcAccess/releases/tag/UnityRelase).
+2. Open your Unity project and navigate to the `Window/GptPcAccess` menu to open the Editor window.
+3. Click on the `Start Listening` button to activate the server. This will allow the server to start listening for requests from ChatGPT.
+4. Now, continue your conversation with ChatGPT. Initially, you need to send the first prompt to ChatGPT. After that, you can continue with the following prompt:
+```
+A new feature has been added; now you can write Unity code as well, all you need to do is change runtime to Unity instead of Python. runtime=unity
+
+But there are things to be careful about when writing Unity code:
+
+-Always write a Unity Editor script, not a MonoBehaviour.
+-It provides its functionality as a menu item placed under 'Edit' > 'Do Task'.
+-It doesn’t provide any editor window. It immediately does the task when the menu item is invoked.
+-Don’t use GameObject.FindGameObjectsWithTag.
+-There is no selected object. Find game objects manually.
+-Do not inherit from any class (For example, do not use MonoBehaviour).
+-I only need the script body. Don’t add any explanation.
+-Make sure you add all namespaces, there should be no missing namespaces.
+-If you use a class that doesn't exist in the code, it will cause problems. Build without relying on external or undefined classes.
+-If a prefab is not specified you should use primitive objects.
+
+Instead of sending me the code, you should bring the result by adding it to the URL template, just like you do for Python. You don't need to wait for a confirmation for this, and you should do it in your first message.
+... (Use 'i%2B' for 'i++') ... (Use '%0A' for 'new line', never send the codes in a single line. If you understand this, you need to say you understood).
+
+If you have understood, I might ask you for a Unity code.
+
+```
+5. That's it! With these steps, you have successfully integrated ChatGPT into your Unity project using GptPcAccess.
+
+
+
+
