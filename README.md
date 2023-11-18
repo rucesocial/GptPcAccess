@@ -1,8 +1,12 @@
 # GptPcAccess
 This repository introduces a Python Flask tool specifically designed to execute GPT-generated code on a local machine. Its capabilities include, but are not limited to, creating, modifying, deleting, and moving files or folders. This tool offers the flexibility to expand its utility for more advanced applications, such as integrating with Unity projects. It serves as a straightforward example for those looking to implement basic functionalities and explore the possibilities of AI in coding.It works by ChatGPT making a GET request.
 <p align="center">
+  <a href="https://bit.ly/3R5pMUg">Discord</a> | <a href="https://bit.ly/46AZJsR">Linkedin Group</a>
+</p>
+<p align="center">
   <img src="https://github.com/rucesocial/GptPcAccess/assets/62393454/9628dfbd-9d58-45b0-963c-130ca87be263" alt="GptPcAccess Demo">
 </p>
+
 
 ## Warning ⚠
 - **Operational Risks**: Users should exercise caution when using this tool, particularly for operations that might alter or delete critical data.
