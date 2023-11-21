@@ -4,7 +4,7 @@ This repository introduces a Python Flask tool specifically designed to execute 
   <a href="https://bit.ly/3R5pMUg">Discord</a> | <a href="https://bit.ly/46AZJsR">Linkedin Group</a>
 </p>
 <p align="center">
-  <img src="https://github.com/rucesocial/GptPcAccess/assets/62393454/9628dfbd-9d58-45b0-963c-130ca87be263" alt="GptPcAccess Demo">
+  <img src="https://blogger.googleusercontent.com/img/a/AVvXsEghIEJFxIbDBwGtwwAHFimwmzyWfpGc_Kdi4aWXubLVQpHaa2tgMdWRko9-_BxSPBUj0mn9AKtu67FTuk3XV1357IzVBb9Qexkn0ABFtB7tSE-UVrGNucGl7jPCbyFshDY6yZmkig9_HrYCc9qA0zLxTDLkqa-5wZ9fewmmZJmBW6_doHkI__rmKVYiSDQ" alt="GptPcAccess Demo">
 </p>
 
 
@@ -15,7 +15,7 @@ This repository introduces a Python Flask tool specifically designed to execute 
 ## How It Works
 <p align="center">
   <a href="https://bit.ly/3R5UfBQ">
-    <img src="https://github.com/rucesocial/GptPcAccess/assets/62393454/d88d1bd5-8886-4147-9d61-e7a57a318838" alt="GptPcAccess Demo" width="500">
+    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEhJvBqvpNnsO9oEXV8JhRgzFzAPxlWSEJxConFJIusS-a0rpiw8EFbchHCh2GBA3JLAIpPGSQBLELB7vMrHqKkM9EC5WU6fj9r6goktabCgEVfDipDp_kWxy8xtwTVvPn9mEaFiElXpgtsW0dwa6Fa3AM74H37lhZMXeKm5elmBCI-Yintw8EUULO5HSfg" alt="GptPcAccess Demo" width="500">
   </a>
 </p>
 
